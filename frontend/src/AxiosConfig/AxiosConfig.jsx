@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:8080",
+  baseURL: "https://inventory-management-system-ins.onrender.com",
   timeout: 100000,
   headers: {
     'Content-Type': 'application/json',
