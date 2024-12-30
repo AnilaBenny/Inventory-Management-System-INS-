@@ -17,8 +17,8 @@
 3. **Environment Variables**:
    - Create a `.env` file in the root directory and include the following variables:
      ```env
-     MONGO_URI=<Your MongoDB Connection String>
-     PORT=5000
+     MONGO_URI=< MongoDB String>
+     PORT=8080
      ```
 
 ### Steps to Run the Project
@@ -33,15 +33,15 @@
    ```
 3. Start the development server:
    ```bash
-   npm run dev
+   npm start
    ```
-   The server will be available at `http://localhost:5000`.
+   The server will be available at `https://inventory-management-system-ins.onrender.com`.
 
 4. For the frontend, navigate to the `client` folder:
    ```bash
    cd client
    npm install
-   npm start
+   npm run dev
    ```
-   The client will be available at `http://localhost:3000`.
+   The client will be available at `https://ins-nu.vercel.app`.
 

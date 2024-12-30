@@ -13,7 +13,7 @@ The Inventory Management System is built with the following architecture:
 
 - **Database**:
   - MongoDB is used for data storage.
-  - Data models include `Item`, `Category`, and `User` schemas.
+  - Data models include `Item` schema.
 
 ### Component Interaction
 1. **Frontend Components**:

@@ -2,7 +2,7 @@
 ## Instructions for Using the System
 
 ### Accessing the Application
-1. Open the client URL in your browser (`http://localhost:3000`).
+1. Open the client URL in your browser (`https://ins-nu.vercel.app`).
 2. Use the navigation bar to view, add, edit, or delete inventory items.
 
 ### Managing Items
