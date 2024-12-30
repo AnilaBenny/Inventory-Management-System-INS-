@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useReducer, useEffect } from 'react';
-import axiosInstance from '../AxiosConfig/Axiosconfig';
+import axiosInstance from '../AxiosConfig/AxiosConfig';
 import { toast } from 'react-toastify';
 
 // Create context
